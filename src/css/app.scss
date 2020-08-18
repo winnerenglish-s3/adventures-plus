@@ -1,0 +1,18 @@
+// app global css in SCSS form
+@font-face {
+  font-family: promptR;
+  src: url("../../public/fonts/Prompt-Regular.ttf");
+}
+
+body {
+  font-family: promptR;
+  font-size: 16px;
+}
+
+.brx {
+  border: 2px red solid;
+}
+
+.aaa {
+  background-color: #e8eaf6;
+}
